@@ -1,7 +1,6 @@
 export interface Usuario {
-    id: 1;
-    nome: 'Kamilla';
-    email: 'kamilla@email.com';
+    nome: string;
+    email: string;
     idade: number; 
   }
   
